@@ -1,0 +1,9 @@
+site_name: HomeDeamon
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Git : Git Commands.md
+  - Docker Commands: Docker Commands.md
